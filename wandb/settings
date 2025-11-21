@@ -1,0 +1,5 @@
+[default]
+entity = soda-with-bubbles
+project = genai
+base_url = https://api.wandb.ai
+
