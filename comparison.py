@@ -1,3 +1,4 @@
+# 用同样prompt生成两张图进行对比
 from diffusers import StableDiffusionPipeline
 import torch
 
