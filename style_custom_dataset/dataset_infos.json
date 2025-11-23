@@ -1,1 +1,219 @@
-{"3D":{"features":{"Image":{"_type":"Image"},"Prompt":{"_type":"Value"},"Style":{"_type":"Value"}},"splits":{"test":{"name":"test","dataset_name":"style_custom_dataset"},"train_short":{"name":"train_short","dataset_name":"style_custom_dataset"},"test_short":{"name":"test_short","dataset_name":"style_custom_dataset"},"train":{"name":"train","dataset_name":"style_custom_dataset"}}},"Anime":{"features":{"Image":{"_type":"Image"},"Prompt":{"_type":"Value"},"Style":{"_type":"Value"}},"splits":{"test":{"name":"test","dataset_name":"style_custom_dataset"},"train_short":{"name":"train_short","dataset_name":"style_custom_dataset"},"test_short":{"name":"test_short","dataset_name":"style_custom_dataset"},"train":{"name":"train","dataset_name":"style_custom_dataset"}}},"Oilpainting":{"features":{"Image":{"_type":"Image"},"Prompt":{"_type":"Value"},"Style":{"_type":"Value"}},"splits":{"test":{"name":"test","dataset_name":"style_custom_dataset"},"train_short":{"name":"train_short","dataset_name":"style_custom_dataset"},"test_short":{"name":"test_short","dataset_name":"style_custom_dataset"},"train":{"name":"train","dataset_name":"style_custom_dataset"}}},"Sketch":{"features":{"Image":{"_type":"Image"},"Prompt":{"_type":"Value"},"Style":{"_type":"Value"}},"splits":{"test":{"name":"test","dataset_name":"style_custom_dataset"},"train_short":{"name":"train_short","dataset_name":"style_custom_dataset"},"test_short":{"name":"test_short","dataset_name":"style_custom_dataset"},"train":{"name":"train","dataset_name":"style_custom_dataset"}}},"Watercolor":{"features":{"Image":{"_type":"Image"},"Prompt":{"_type":"Value"},"Style":{"_type":"Value"}},"splits":{"test":{"name":"test","dataset_name":"style_custom_dataset"},"train_short":{"name":"train_short","dataset_name":"style_custom_dataset"},"test_short":{"name":"test_short","dataset_name":"style_custom_dataset"},"train":{"name":"train","dataset_name":"style_custom_dataset"}}},"Flatillustration":{"features":{"Image":{"_type":"Image"},"Prompt":{"_type":"Value"},"Style":{"_type":"Value"}},"splits":{"test":{"name":"test","dataset_name":"style_custom_dataset"},"train_short":{"name":"train_short","dataset_name":"style_custom_dataset"},"test_short":{"name":"test_short","dataset_name":"style_custom_dataset"},"train":{"name":"train","dataset_name":"style_custom_dataset"}}}}
+{
+  "3D": {
+    "features": {
+      "Image": {
+        "_type": "Image"
+      },
+      "Prompt": {
+        "_type": "Value"
+      },
+      "Style": {
+        "_type": "Value"
+      }
+    },
+    "splits": {
+      "test": {
+        "name": "test",
+        "dataset_name": "style_custom_dataset"
+      },
+      "train_short": {
+        "name": "train_short",
+        "dataset_name": "style_custom_dataset"
+      },
+      "test_short": {
+        "name": "test_short",
+        "dataset_name": "style_custom_dataset"
+      },
+      "train": {
+        "name": "train",
+        "dataset_name": "style_custom_dataset"
+      }
+    }
+  },
+  "Anime": {
+    "features": {
+      "Image": {
+        "_type": "Image"
+      },
+      "Prompt": {
+        "_type": "Value"
+      },
+      "Style": {
+        "_type": "Value"
+      }
+    },
+    "splits": {
+      "test": {
+        "name": "test",
+        "dataset_name": "style_custom_dataset"
+      },
+      "train_short": {
+        "name": "train_short",
+        "dataset_name": "style_custom_dataset"
+      },
+      "test_short": {
+        "name": "test_short",
+        "dataset_name": "style_custom_dataset"
+      },
+      "train": {
+        "name": "train",
+        "dataset_name": "style_custom_dataset"
+      }
+    }
+  },
+  "Oilpainting": {
+    "features": {
+      "Image": {
+        "_type": "Image"
+      },
+      "Prompt": {
+        "_type": "Value"
+      },
+      "Style": {
+        "_type": "Value"
+      }
+    },
+    "splits": {
+      "test": {
+        "name": "test",
+        "dataset_name": "style_custom_dataset"
+      },
+      "train_short": {
+        "name": "train_short",
+        "dataset_name": "style_custom_dataset"
+      },
+      "test_short": {
+        "name": "test_short",
+        "dataset_name": "style_custom_dataset"
+      },
+      "train": {
+        "name": "train",
+        "dataset_name": "style_custom_dataset"
+      }
+    }
+  },
+  "Sketch": {
+    "features": {
+      "Image": {
+        "_type": "Image"
+      },
+      "Prompt": {
+        "_type": "Value"
+      },
+      "Style": {
+        "_type": "Value"
+      }
+    },
+    "splits": {
+      "test": {
+        "name": "test",
+        "dataset_name": "style_custom_dataset"
+      },
+      "train_short": {
+        "name": "train_short",
+        "dataset_name": "style_custom_dataset"
+      },
+      "test_short": {
+        "name": "test_short",
+        "dataset_name": "style_custom_dataset"
+      },
+      "train": {
+        "name": "train",
+        "dataset_name": "style_custom_dataset"
+      }
+    }
+  },
+  "Watercolor": {
+    "features": {
+      "Image": {
+        "_type": "Image"
+      },
+      "Prompt": {
+        "_type": "Value"
+      },
+      "Style": {
+        "_type": "Value"
+      }
+    },
+    "splits": {
+      "test": {
+        "name": "test",
+        "dataset_name": "style_custom_dataset"
+      },
+      "train_short": {
+        "name": "train_short",
+        "dataset_name": "style_custom_dataset"
+      },
+      "test_short": {
+        "name": "test_short",
+        "dataset_name": "style_custom_dataset"
+      },
+      "train": {
+        "name": "train",
+        "dataset_name": "style_custom_dataset"
+      }
+    }
+  },
+  "Flatillustration": {
+    "features": {
+      "Image": {
+        "_type": "Image"
+      },
+      "Prompt": {
+        "_type": "Value"
+      },
+      "Style": {
+        "_type": "Value"
+      }
+    },
+    "splits": {
+      "test": {
+        "name": "test",
+        "dataset_name": "style_custom_dataset"
+      },
+      "train_short": {
+        "name": "train_short",
+        "dataset_name": "style_custom_dataset"
+      },
+      "test_short": {
+        "name": "test_short",
+        "dataset_name": "style_custom_dataset"
+      },
+      "train": {
+        "name": "train",
+        "dataset_name": "style_custom_dataset"
+      }
+    }
+  },
+  "Vg": {
+    "features": {
+      "Image": {
+        "_type": "Image"
+      },
+      "Prompt": {
+        "_type": "Value"
+      },
+      "Style": {
+        "_type": "Value"
+      }
+    },
+    "splits": {
+      "test": {
+        "name": "test",
+        "dataset_name": "style_custom_dataset"
+      },
+      "train_short": {
+        "name": "train_short",
+        "dataset_name": "style_custom_dataset"
+      },
+      "test_short": {
+        "name": "test_short",
+        "dataset_name": "style_custom_dataset"
+      },
+      "train": {
+        "name": "train",
+        "dataset_name": "style_custom_dataset"
+      }
+    }
+  }
+}
